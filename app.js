@@ -14,7 +14,7 @@ let resultado = document.querySelector("#resultado");
      nomeAmigo.value = '';
      atualizarLista()
     }
-// Atualizar a lista de Amigos
+// Atualizar a lista de Amigos para o sorteio
     function atualizarLista() {
        listaDeAmigos.innerHTML= '';
        for(i = 0; i < arrayAmigos.length; i++) {
