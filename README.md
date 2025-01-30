@@ -7,3 +7,4 @@
    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
 </div>
 <h2>Projeto realizado no curso de Lógica de Programação - Oracle Next Education - Alura</h2>
+<img src="https://github.com/f09santos/jogo-amigo-secreto/blob/main/assets/capa.png">
